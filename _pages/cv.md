@@ -49,4 +49,4 @@ Teaching
 * Teaching assiatant for undergraduate and post graduate physiology courses
 * Resource Person for outreach programme for higher secondary school biology teachers
 
-[Download Full CV (PDF)](files/Cv_tinu.pdf)
+Please find my full CV [here](files/CV_tinu.pdf).
