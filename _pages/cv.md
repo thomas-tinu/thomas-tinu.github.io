@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc., Agriculture, TNAU, 2016
+* B.Sc. Agriculture, TNAU, 2016
 * M.S. Agriculture (Crop Physiology), UAS Dharwad, 2018
 * Ph.D in Crop Physiology, UAS Banaglore, Novemeber 2023 (expected)
 
@@ -44,24 +44,24 @@ Skills
   * RNA seq analysis and other basic
 bioinformatics analysis
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+ # <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+ # {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+ #   {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching assiatant for undergraduate and post graduate physiology courses
+* Resource Person for outreach programme for higher secondary school biology teachers
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
