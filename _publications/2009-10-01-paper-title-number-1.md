@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Gibberellic Acid's Role in Bud Break Dynamics Among Mulberry Genotypes with Distinct Growth Patterns"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/gibberellic-acid-bud-break
+excerpt: 'Investigating the influence of Gibberellic Acid on bud break among diverse mulberry genotypes.'
+date: 2023-09-12
+venue: 'Research Square (Preprint Version)'
+paperurl: 'https://www.researchsquare.com/article/rs-3307003/v1.pdf'
+citation: 'Thomas, Tinu; Patil, Shivasharanappa; Shridhar, S et al. (2023). "Gibberellic Acid's Role in Bud Break Dynamics Among Mulberry Genotypes with Distinct Growth Patterns." Research Square (Preprint Version). [https://doi.org/10.21203/rs.3.rs-3307003/v1].'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Investigating the influence of Gibberellic Acid on bud break dynamics among mulberry genotypes with distinct growth patterns. This study, authored by Tinu Thomas, Shivasharanappa Patil, Shridhar S, and others, presents crucial findings on the role of Gibberellic Acid in modulating bud break in mulberries.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.researchsquare.com/article/rs-3307003/v1.pdf)
+
+Recommended citation: Thomas, Tinu; Patil, Shivasharanappa; Shridhar, S et al. (2023). "Gibberellic Acid's Role in Bud Break Dynamics Among Mulberry Genotypes with Distinct Growth Patterns." Research Square (Preprint Version). [https://doi.org/10.21203/rs.3.rs-3307003/v1].
