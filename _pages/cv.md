@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc., Agriculture, TNAU, 2016
+* M.S. Agriculture (Crop Physiology), UAS Dharwad, 2018
+* Ph.D in Crop Physiology, UAS Banaglore, Novemeber 2023 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* UG Research project: Screening of rice genotypes/lines for multiple stress
+tolerance
+  * TNAU
+  * Supervisor: Dr. S. Nadaradjan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PG Research project:  Physiological and biological quality of Lettuce (Lactuca sativa
+L.) cultivars grown in different growing systems under protected condition
+  * UAS Dharwad
+  * Supervisor: Dr. B. S. Janagoudar
+
+* PhD Research project:  Identification and characterization of genes contributing for
+rapid foliage growth in Indian mulberry (Morus alba L.)
+  * UAS Banaglore
+  * Supervisor: Dr. Nataraja Karaba N
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basic Molecular Biology Skills
+  * Nucleic acid extraction, PCR, qRT-PCR
+  * Cloning and Transformation
+  * Microbiological techniques
+* LC-MS/MS
+* Compuattional Skills
+  * Python and R (Basics) - Proficient
+  * RNA seq analysis and other basic
+bioinformatics analysis
 
 Publications
 ======
