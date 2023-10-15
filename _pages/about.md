@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there, I'm Tinu Thomas"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD scholar at Department of Crop Physiology, UAS Banglore, India. In my PhD research I am trying to understand the molecular mechanism behind the mulberry bud break. My other interst are Fottball and PC gaming. I love cooking in my free time.
+🎓 I'm a passionate PhD scholar at the Department of Crop Physiology, UAS Bangalore, India, with a focus on unlocking the mysteries of mulberry bud break at the molecular level. My research journey has been a thrilling exploration of plant physiology and its intricate mechanisms.
 
-**I will be graduting soon and I am actively looking for position in industry
+🌱 Beyond the laboratory, I thrive on my love for botany, but my interests don't stop there! I'm also a dedicated football enthusiast and an avid PC gamer. When I'm not exploring the world of plants, you can find me immersed in virtual worlds or on the football field.
+
+🍳 In my moments of relaxation, I channel my creativity into the kitchen. Cooking is not just a hobby; it's a delightful art that allows me to experiment with flavors and create mouthwatering dishes.
+
+🌟 I'm on the brink of graduation and actively seeking opportunities in the industry. My unique blend of scientific curiosity, passion for gaming, love for sports, and culinary skills make me a dynamic candidate ready to embark on new challenges.
+
+Let's connect and explore opportunities together!
 
 A breif bio about me
 ======
