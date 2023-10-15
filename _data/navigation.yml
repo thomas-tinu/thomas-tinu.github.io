@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - #title: "Talks"
-    #url: /talks/    
+ - title: "CV"
+    url: /cv/
 
-  - title: "Research excitment"
+  - title: "Gallery and Life"
     url: /Research excitment/    
     
   - #title: "Portfolio"
@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /Blogs/
     
-  - title: "CV"
-    url: /cv/
+ - #title: "Talks"
+    #url: /talks/    
     
   - #title: "Guide"
     #url: /markdown/
