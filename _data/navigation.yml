@@ -7,10 +7,12 @@ main:
     url: /cv/
 
   - title: "Gallery and Life"
-    url: /Research-excitement/
+    output: true
+    message: "Update coming soon"  # Message to display
 
   - title: "Blog Posts"
-    url: /Blogs/
+    output: true
+    message: "Update coming soon"  # Message to display
 
   # - title: "Portfolio"
   #   url: /portfolio/
