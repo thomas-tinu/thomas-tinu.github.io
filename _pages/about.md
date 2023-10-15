@@ -22,4 +22,4 @@ Get in Touch
 You can contact me through the following methods:
 
 - Email: [tinuthomas21@gmail.com](mailto:tinuthomas21@gmail.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/twitter.com/tinu_1994)
+- Twitter: [@tinu_1994](https://twitter.com/tinu_1994)
