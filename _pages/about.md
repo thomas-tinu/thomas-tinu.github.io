@@ -21,7 +21,7 @@ redirect_from:
 
 🍳 In my moments of relaxation, I channel my creativity into the kitchen. Cooking is not just a hobby; it's a delightful art that allows me to experiment with flavors and create mouthwatering dishes.
 
-🌟 I'm on the brink of graduation and actively seeking opportunities in the industry. My unique blend of scientific curiosity, passion for gaming, love for sports, and culinary skills make me a dynamic candidate ready to embark on new challenges.
+🌟 I'm on the brink of graduation and actively seeking opportunities in the industry.
 
 A brief bio about me
 ======
