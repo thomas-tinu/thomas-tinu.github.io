@@ -35,23 +35,27 @@ author_profile: true
     <strong>Link:</strong> <a href="https://www.researchgate.net/profile/Subbarayan-Nadaradjan/publication/362825170_Trait_based_assessment_in_seedling_stage_of_rice_for_salinity_tolerance/links/6409a9840cf1030a56871ca1/Trait-based-assessment-in-seedling-stage-of-rice-for-salinity-tolerance.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D">Read Article</a>
   </p>
 
-  <h2 class="publication-title">📚 Growth and Physiology of Lettuce (Lactuca sativa L.) Cultivars Under Different Growing Systems</h2>
-  <p class="publication-details">
-    <strong>Authors:</strong> Thomas, T., Biradar, M. S., Chimmad, V. P., & Janagoudar, B. S.<br>
-    <strong>Date:</strong> 2021<br>
-    <strong>Journal:</strong> Plant Physiology Reports, 26(3)<br>
-    <strong>DOI:</strong> <a href="https://doi.org/10.1007/s40502-2021-00591-3">https://doi.org/10.1007/s40502-2021-00591-3</a><br>
-    <strong>Link:</strong> <a href="https://link.springer.com/article/10.1007/s40502-2021-00591-3">Read Article</a>
-  </p>
+<h2 class="publication-title">📚 Growth and Physiology of Lettuce (Lactuca sativa L.) Cultivars Under Different Growing Systems</h2>
+<p class="publication-details">
+  <strong>Authors:</strong> Thomas, T., Biradar, M. S., Chimmad, V. P., & Janagoudar, B. S.<br>
+  <strong>Date:</strong> 2021<br>
+  <strong>Journal:</strong> Plant Physiology Reports, 26(3)<br>
+</p>
+<p class="doi-link">
+  <strong>DOI:</strong> <a href="https://doi.org/10.1007/s40502-2021-00591-3">https://doi.org/10.1007/s40502-2021-00591-3</a><br>
+  <strong>Link:</strong> <a href="https://link.springer.com/article/10.1007/s40502-2021-00591-3">Read Article</a>
+</p>
 
   <h2 class="publication-title">📚 Identification of Rice Genotypes for Seedling Stage Multiple Abiotic Stress Tolerance</h2>
-  <p class="publication-details">
-    <strong>Authors:</strong> Thomas, T., Purushothaman, J., Janarthanan, R., Anusuya, N., Medisetti, P. G., Karthick, J., ... & Thirumeni, S.<br>
-    <strong>Date:</strong> 2020<br>
-    <strong>Journal:</strong> Plant Physiology Reports, 25<br>
-    <strong>DOI:</strong> <a href="https://doi.org/10.1007/s40502-2020-00549-x">https://doi.org/10.1007/s40502-2020-00549-x</a><br>
-    <strong>Link:</strong> <a href="https://link.springer.com/article/10.1007/s40502-2020-00549-x">Read Article</a>
-  </p>
+<p class="publication-details">
+  <strong>Authors:</strong> Thomas, T., Purushothaman, J., Janarthanan, R., Anusuya, N., Medisetti, P. G., Karthick, J., ... & Thirumeni, S.<br>
+  <strong>Date:</strong> 2020<br>
+  <strong>Journal:</strong> Plant Physiology Reports, 25<br>
+</p>
+<p class="doi-link">
+  <strong>DOI:</strong> <a href="https://doi.org/10.1007/s40502-2020-00549-x">https://doi.org/10.1007/s40502-2020-00549-x</a><br>
+  <strong>Link:</strong> <a href="https://link.springer.com/article/10.1007/s40502-2020-00549-x">Read Article</a>
+</p>
 </div>
 
 <style>
