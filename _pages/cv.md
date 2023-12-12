@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. Agriculture, TNAU, 2016
 * M.S. Agriculture (Crop Physiology), UAS Dharwad, 2018
-* Ph.D in Crop Physiology, UAS Banaglore, November 2023 (expected)
+* Ph.D in Crop Physiology, UAS Bangalore, January 2024 (expected)
 
 Research experience
 ======
@@ -26,21 +26,35 @@ Research experience
   * Supervisor: Dr. B. S. Janagoudar
 
 * PhD Research project: Identification and characterization of genes contributing for rapid foliage growth in Indian mulberry (Morus alba L.)
-  * UAS Banaglore
+  * UAS Bangalore
   * Supervisor: Dr. Nataraja Karaba N
   
 Skills
 ======
-* Basic Molecular Biology Skills
-  * Nucleic acid extraction, PCR, qRT-PCR
-  * Cloning and Transformation
-  * Microbiological techniques
-* LC-MS/MS
+*  Experimental skills
+  * High throughput phenotyping forabiotic stress tolerance
+  * Biochemical and enzymaticassays
+  * Expertise in infrared gas analyzerand spectroradiometer
+  * Metabolite profiling by LC-MS/MS
+  * Hi-tech agricultural techniquesincluding hydroponics andaeroponics
+*  Molecular Biology skills
+  * Nucleic acids extraction, PCR,qPCR
+  * Basic microbiological techniques
+  * Cloning and transformation(Genome editing)
+  * Tissue culture techniques
 * Computational Skills
-  * Python and R (Basics) - Proficient
-  * RNA seq analysis and other basic bioinformatics analysis
+  *Proficient in MS Office
+  *Data analytics with Python & R
+  *RNA seq analysis
+  *Data visualization
+* Soft skills
+  *Communication
+  *Leadership
+  *Teamwork
+  *Problem solving
+  *Time Management
   
 Teaching
 ======
-* Teaching assistant for undergraduate and postgraduate physiology courses
+* Teaching assistant for undergraduate and postgraduate crop physiology courses
 * Resource Person for outreach program for higher secondary school biology teachers
