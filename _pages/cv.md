@@ -31,28 +31,31 @@ Research experience
   
 Skills
 ======
-*  Experimental skills
-  * High throughput phenotyping forabiotic stress tolerance
-  * Biochemical and enzymaticassays
-  * Expertise in infrared gas analyzerand spectroradiometer
-  * Metabolite profiling by LC-MS/MS
-  * Hi-tech agricultural techniquesincluding hydroponics andaeroponics
-*  Molecular Biology skills
-  * Nucleic acids extraction, PCR,qPCR
-  * Basic microbiological techniques
-  * Cloning and transformation(Genome editing)
-  * Tissue culture techniques
-* Computational Skills
-  *Proficient in MS Office
-  *Data analytics with Python & R
-  *RNA seq analysis
-  *Data visualization
-* Soft skills
-  *Communication
-  *Leadership
-  *Teamwork
-  *Problem solving
-  *Time Management
+# Experimental Skills
+* High throughput phenotyping for abiotic stress tolerance
+* Biochemical and enzymatic assays
+* Expertise in infrared gas analyzer and spectroradiometer
+* Metabolite profiling by LC-MS/MS
+* Hi-tech agricultural techniques including hydroponics and aeroponics
+
+# Molecular Biology Skills
+* Nucleic acids extraction, PCR, qPCR
+* Basic microbiological techniques
+* Cloning and transformation (Genome editing)
+* Tissue culture techniques
+
+# Computational Skills
+* Proficient in MS Office
+* Data analytics with Python & R
+* RNA seq analysis
+* Data visualization
+
+# Soft Skills
+* Communication
+* Leadership
+* Teamwork
+* Problem solving
+* Time Management
   
 Teaching
 ======
